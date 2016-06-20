@@ -1,0 +1,5 @@
+trash:
+
+T = ~0.02
+TSER = ~0.97
+T_colour = ~0,0,1

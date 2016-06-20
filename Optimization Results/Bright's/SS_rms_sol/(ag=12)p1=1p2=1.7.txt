@@ -1,0 +1,16 @@
+Top
+-----------
+AlN 49.9 nm
+-----------
+Ag 12.1 nm
+-----------
+
+TSER = 0.3707
+check_TSER = 0.3695
+TSER in UV = 0.386
+TSER in visible = 0.2081
+TSER in IR = 0.5697
+Tpriority = 0.881
+Tvis = 0.8099
+T_color: (213, 216, 217)
+R_color: (21, 18, 20)

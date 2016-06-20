@@ -1,0 +1,85 @@
+Python 2.7.1 (r271:86832, Nov 27 2010, 18:30:46) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Creating the inital population
+Generation 1
+Generation 2
+Generation 3
+Generation 4
+Generation 5
+Generation 6
+Generation 7
+Generation 8
+Generation 9
+Generation 10
+Generation 11
+Generation 12
+Generation 13
+Generation 14
+Generation 15
+Generation 16
+Generation 17
+Generation 18
+Generation 19
+Generation 20
+Generation 21
+Generation 22
+Generation 23
+Generation 24
+Generation 25
+Generation 26
+Generation 27
+Generation 28
+Generation 29
+Generation 30
+Generation 31
+Generation 32
+Generation 33
+Generation 34
+Generation 35
+Generation 36
+Generation 37
+Generation 38
+Generation 39
+Generation 40
+(2.0027025726679191, 15.7, 39.4, 0.71986477711550956, 0.48399119578444588)
+(2.0059124172308529, 16.3, 45.6, 0.71435726703132063, 0.48935710972458196)
+(2.0084919662418157, 16.3, 44.9, 0.71389646079536773, 0.49026341310556859)
+(2.0086998236970839, 16.1, 39.3, 0.70844751084513224, 0.49486581719138484)
+(2.0089005070996957, 16.0, 40.8, 0.71534776787255072, 0.48911306567335483)
+(2.009603571472605, 16.1, 43.0, 0.71703902306750511, 0.4878085819431846)
+(2.0097715010873745, 16.7, 46.5, 0.70394916096879123, 0.49876981938764381)
+(2.0118304068236954, 16.7, 45.2, 0.70333195775261725, 0.50031736711126151)
+(2.0121160408191341, 16.3, 43.5, 0.71234939040204759, 0.49229350451208381)
+(2.0153828645570511, 16.4, 42.3, 0.70762258587280347, 0.49688409888307522)
+
+Top
+-----------
+AlN 42.3 nm
+-----------
+Ag 16.4 nm
+-----------
+
+TSER = 0.4969
+Tvis = 0.7076
+
+Traceback (most recent call last):
+  File "C:\Users\Sai\Desktop\opt_sim_WC\opt_sim_WC\ga_main.py", line 144, in <module>
+    best_struct = plot_structure(final_top_ten[-1])
+  File "C:\Users\Sai\Desktop\opt_sim_WC\opt_sim_WC\ga_2layers_aln_sai.py", line 337, in plot_structure
+    TR(mystruct, show_solar=True, min_wl=200, max_wl=2500)
+  File "C:\Users\Sai\Desktop\opt_sim_WC\opt_sim_WC\opt_sim\plot.py", line 38, in TR
+    plt.plot(wl, T, label=structure.label + ' T')
+  File "C:\Python27\lib\site-packages\matplotlib\pyplot.py", line 2458, in plot
+    ret = ax.plot(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\matplotlib\axes.py", line 3848, in plot
+    for line in self._get_lines(*args, **kwargs):
+  File "C:\Python27\lib\site-packages\matplotlib\axes.py", line 323, in _grab_next_args
+    for seg in self._plot_args(remaining, kwargs):
+  File "C:\Python27\lib\site-packages\matplotlib\axes.py", line 300, in _plot_args
+    x, y = self._xy_from_xy(x, y)
+  File "C:\Python27\lib\site-packages\matplotlib\axes.py", line 240, in _xy_from_xy
+    raise ValueError("x and y must have same first dimension")
+ValueError: x and y must have same first dimension
+>>> 

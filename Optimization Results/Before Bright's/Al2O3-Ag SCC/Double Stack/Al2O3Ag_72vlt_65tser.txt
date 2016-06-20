@@ -1,0 +1,69 @@
+Python 2.7.1 (r271:86832, Nov 27 2010, 18:30:46) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Creating the inital population
+Generation 1
+Generation 2
+Generation 3
+Generation 4
+Generation 5
+Generation 6
+Generation 7
+Generation 8
+Generation 9
+Generation 10
+Generation 11
+Generation 12
+Generation 13
+Generation 14
+Generation 15
+Generation 16
+Generation 17
+Generation 18
+Generation 19
+Generation 20
+Generation 21
+Generation 22
+Generation 23
+Generation 24
+Generation 25
+Generation 26
+Generation 27
+Generation 28
+Generation 29
+Generation 30
+Generation 31
+Generation 32
+Generation 33
+Generation 34
+Generation 35
+Generation 36
+Generation 37
+Generation 38
+Generation 39
+Generation 40
+(1.6588646746148319, 14.4, 103.6, 20.0, 54.5, 0.71435728099968387, 0.64026779277521262)
+(1.6596983798062879, 13.4, 100.9, 19.5, 59.7, 0.73565697416510745, 0.627545290198948)
+(1.660022443904495, 14.0, 93.8, 19.1, 62.6, 0.70975985319847945, 0.64315935755119669)
+(1.6605568552071963, 15.8, 97.0, 18.7, 46.6, 0.69971792909810127, 0.64893467012896933)
+(1.6606304514812331, 14.6, 105.4, 19.4, 63.7, 0.70929701641751464, 0.64354645626927187)
+(1.6617899823880915, 14.0, 93.8, 19.4, 46.4, 0.72159147000962387, 0.63658162972291699)
+(1.6636193786343481, 14.1, 91.8, 19.5, 44.8, 0.7123544855346764, 0.64238264095717623)
+(1.6731289704083614, 15.2, 96.9, 17.9, 66.8, 0.70524200024954131, 0.6483545710230274)
+(1.6796011376299536, 13.4, 100.9, 20.0, 68.3, 0.70868415645382643, 0.64769150901139416)
+(1.6869695704786349, 14.4, 103.6, 20.0, 61.4, 0.71430225063899411, 0.64592085872168936)
+
+Top
+--------------
+Al2O3 61.4 nm
+--------------
+Ag 20.0 nm
+--------------
+Al2O3 103.6 nm
+--------------
+Ag 14.4 nm
+--------------
+
+TSER = 0.6459
+Tvis = 0.7143
